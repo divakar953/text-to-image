@@ -5,8 +5,8 @@ import {
   verifyRazorpay,
   registerUser,
   loginUser,
-  paymentStripe,
-  verifyStripe,
+  // paymentStripe,
+  // verifyStripe,
 } from "../controllers/UserController.js";
 import authUser from "../middlewares/auth.js";
 

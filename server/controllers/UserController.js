@@ -322,6 +322,6 @@ export {
   userCredits,
   paymentRazorpay,
   verifyRazorpay,
-  paymentStripe,
-  verifyStripe,
+  // paymentStripe,
+  // verifyStripe,
 };
